@@ -17,7 +17,7 @@
 
 # Description
  This project is a basic implementation of an Ethereum smart contract for a custom token named "jack" with the abbreviation "ask".
- It allows for the creation and destruction of tokens, and keeps track of each address's token balance.
+ It allows for the creation of tokens, and keeps track of each address's token balance. 
 
 # Author
  Korrayi Vishnu
